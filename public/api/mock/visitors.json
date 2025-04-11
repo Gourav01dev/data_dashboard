@@ -1,0 +1,12 @@
+{
+    "data": [
+      { "name": "Jan", "value": 2400, "compareValue": 1400 },
+      { "name": "Feb", "value": 1398, "compareValue": 1210 },
+      { "name": "Mar", "value": 9800, "compareValue": 7800 },
+      { "name": "Apr", "value": 3908, "compareValue": 2900 },
+      { "name": "May", "value": 4800, "compareValue": 3800 },
+      { "name": "Jun", "value": 3800, "compareValue": 2800 },
+      { "name": "Jul", "value": 4300, "compareValue": 3200 }
+    ],
+    "status": "success"
+  }

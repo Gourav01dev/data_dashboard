@@ -1,0 +1,10 @@
+{
+    "data": [
+      { "value": 100, "name": "Visits" },
+      { "value": 80, "name": "Cart Views" }, 
+      { "value": 50, "name": "Added to Cart" },
+      { "value": 40, "name": "Checkout Started" },
+      { "value": 30, "name": "Purchased" }
+    ],
+    "status": "success"
+  }

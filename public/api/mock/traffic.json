@@ -1,0 +1,11 @@
+{
+    "data": [
+      { "name": "Direct", "value": 35 },
+      { "name": "Organic", "value": 25 },
+      { "name": "Social", "value": 20 },
+      { "name": "Referral", "value": 15 },
+      { "name": "Email", "value": 5 }
+    ],
+    "status": "success"
+  }
+  

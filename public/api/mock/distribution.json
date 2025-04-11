@@ -1,0 +1,8 @@
+{
+    "data": [
+      { "name": "Enterprise", "value": 45 },
+      { "name": "SMB", "value": 30 },
+      { "name": "Consumer", "value": 25 }
+    ],
+    "status": "success"
+  }

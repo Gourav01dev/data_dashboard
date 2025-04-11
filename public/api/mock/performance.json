@@ -1,0 +1,11 @@
+{
+    "data": [
+      { "x": 100, "y": 200, "z": 200, "name": "Campaign A" },
+      { "x": 120, "y": 100, "z": 260, "name": "Campaign B" },
+      { "x": 170, "y": 300, "z": 400, "name": "Campaign C" },
+      { "x": 140, "y": 250, "z": 280, "name": "Campaign D" },
+      { "x": 150, "y": 400, "z": 500, "name": "Campaign E" },
+      { "x": 110, "y": 280, "z": 200, "name": "Campaign F" }
+    ],
+    "status": "success"
+  }
