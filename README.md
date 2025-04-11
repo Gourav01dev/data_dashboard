@@ -24,7 +24,7 @@ TECH STACK
 
 - Next.js v15.2.4
 - React (latest)
-- Chart.js + react-chartjs-2
+- react-chartjs-2
 - Redux Toolkit
 - Axios
 - react-virtuoso
